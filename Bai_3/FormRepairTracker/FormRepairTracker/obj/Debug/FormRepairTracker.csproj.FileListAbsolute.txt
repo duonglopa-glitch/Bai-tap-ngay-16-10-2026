@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\bin\Debug\FormRepairTracker.exe.config
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\bin\Debug\FormRepairTracker.exe
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\bin\Debug\FormRepairTracker.pdb
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.FormRepairTracker.resources
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.exe
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_3\FormRepairTracker\FormRepairTracker\obj\Debug\FormRepairTracker.pdb
