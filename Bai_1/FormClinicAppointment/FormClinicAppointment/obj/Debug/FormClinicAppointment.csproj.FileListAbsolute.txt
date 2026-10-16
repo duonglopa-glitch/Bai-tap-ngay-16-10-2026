@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.FormClinicAppointment.resources
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\bin\Debug\FormClinicAppointment.exe.config
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\bin\Debug\FormClinicAppointment.exe
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\bin\Debug\FormClinicAppointment.pdb
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.exe
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_1\FormClinicAppointment\FormClinicAppointment\obj\Debug\FormClinicAppointment.pdb

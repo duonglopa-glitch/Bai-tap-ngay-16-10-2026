@@ -1,0 +1,10 @@
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.csproj.AssemblyReference.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.ClearInputFields.resources
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.Properties.Resources.resources
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.csproj.GenerateResource.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.csproj.CoreCompileInputs.cache
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\bin\Debug\FormEquipmentCheckout.exe.config
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\bin\Debug\FormEquipmentCheckout.exe
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\bin\Debug\FormEquipmentCheckout.pdb
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.exe
+C:\Users\LOQ\Downloads\Ngay16-10-2026\Bai_2\FormEquipmentCheckout\FormEquipmentCheckout\obj\Debug\FormEquipmentCheckout.pdb
